@@ -14,4 +14,5 @@ new_york_city.csv
 
 ### Credits
 All credit goes to Udacity!
+Thank you udacity for giving me the oppurtunity to learn so many new skills
 
