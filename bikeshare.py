@@ -50,7 +50,7 @@ def load_data(city, month, day):
     return df
 
 def time_stats(df):
-    
+    # calculating the most frequent times of travel
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
@@ -64,7 +64,7 @@ def time_stats(df):
 
 
 def station_stats(df):
-
+    # calculates most popular stations
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
@@ -79,7 +79,7 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-  
+    # calculates trip duration
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
     total_duration = df.loc[:, 'Trip Duration'].sum()
