@@ -5,11 +5,13 @@
 Explore a US Bikeshare system
 
 ### Description
-Describe what your project is about and what it does
+This program lets users explore a bikeshare system of 3 cities in the US.
 
 ### Files used
-Include the files used
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All credit goes to Udacity!
 
