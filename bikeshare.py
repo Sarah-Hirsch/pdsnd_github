@@ -79,7 +79,7 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-  
+    # calculates trip duration
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
     total_duration = df.loc[:, 'Trip Duration'].sum()
