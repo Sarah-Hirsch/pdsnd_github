@@ -1,5 +1,5 @@
 ### Date created
-8/28/2020
+August 8 2020
 
 ### Project Title
 Explore a US Bikeshare system
