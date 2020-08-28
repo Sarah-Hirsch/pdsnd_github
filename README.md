@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+8/28/2020
 
 ### Project Title
-Replace the Project Title
+Explore a US Bikeshare system
 
 ### Description
 Describe what your project is about and what it does
